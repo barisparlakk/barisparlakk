@@ -1,0 +1,9 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="278" rx="17" stroke="#30363D" stroke-width="2"/>
+  <path d="M72 214H1128" stroke="#21262D" stroke-width="2"/>
+  <rect x="72" y="68" width="44" height="4" rx="2" fill="#58A6FF"/>
+  <text x="72" y="132" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="46" font-weight="700">Barış Parlak</text>
+  <text x="72" y="178" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">AI engineer · data scientist · computer engineer</text>
+  <text x="72" y="245" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="2">ISTANBUL · TÜRKİYE</text>
+</svg>
