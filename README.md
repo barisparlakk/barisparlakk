@@ -1,5 +1,5 @@
 <a href="https://barisparlakk.github.io">
-  <img src="./assets/profile-header.svg" width="100%" alt="Barış Parlak: AI developer and computer engineering student in Istanbul" />
+  <img src="./assets/header-road.svg" width="100%" alt="Barış Parlak: AI developer and computer engineering student in Istanbul" />
 </a>
 
 <p align="center">

@@ -427,7 +427,7 @@ def footer():
 
 
 if __name__ == "__main__":
-    (ASSETS / "profile-header.svg").write_text(header())
+    (ASSETS / "header-road.svg").write_text(header())
     (ASSETS / "road-divider.svg").write_text(footer())
     for build in (thermground, seyir, skyguard, turkrag, deepderm, notary):
         build()
