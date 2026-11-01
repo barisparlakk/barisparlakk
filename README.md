@@ -1,82 +1,50 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Barış Parlak — AI engineer, data scientist and computer engineer" />
-</div>
+<a href="https://barisparlakk.github.io">
+  <img src="./assets/profile-header.svg" width="100%" alt="Barış Parlak: AI developer and computer engineering student in Istanbul" />
+</a>
 
-<br />
+<p align="center">
+  <a href="https://barisparlakk.github.io"><img src="https://img.shields.io/badge/Portfolio-f2c230?style=for-the-badge&logo=googlechrome&logoColor=20262c" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-parlak-1a0a94252/"><img src="https://img.shields.io/badge/LinkedIn-5cc8f0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzIwMjYyYyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOTEzIDEuNjM3LTEuODQ3IDMuMzctMS44NDcgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://barisparlakk.github.io/cv.pdf"><img src="https://img.shields.io/badge/CV-ff4b4b?style=for-the-badge&logo=readthedocs&logoColor=20262c" alt="CV" /></a>
+  <a href="mailto:barisparlak36@gmail.com"><img src="https://img.shields.io/badge/Email-e9ecee?style=for-the-badge&logo=gmail&logoColor=20262c" alt="Email" /></a>
+</p>
 
-<div align="center">
-  <a href="https://barisparlakk.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Portfolio" /></a>
-  <a href="mailto:barisparlak36@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
-  <a href="https://github.com/barisparlakk"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
-</div>
+I build perception, planning and language systems, and I like taking them all the way: past the notebook, into a simulator, onto an edge GPU or behind an API someone actually uses. I study computer engineering at İnönü University and spent 2025–26 at the Military University of Technology in Warsaw.
 
-## Profile
+<img src="./assets/road-divider.svg" width="100%" alt="" />
 
-I build applied AI systems that move from experiments to usable products. My work focuses on computer vision, retrieval-augmented generation, anomaly detection, and data-driven software.
+## Projects
 
-- Based in Istanbul, Türkiye
-- Working across AI engineering, data science, and computer engineering
-- Currently exploring edge inference, privacy-first RAG, and intelligent mobility
-- Open to research, engineering, and product collaborations
+<p>
+  <a href="https://github.com/barisparlakk/thermground"><img src="./assets/cards/thermground.svg" width="49%" alt="thermground: a small vision-language model for thermal UAV search-and-rescue" /></a>
+  <a href="https://github.com/barisparlakk/Seyir"><img src="./assets/cards/seyir.svg" width="49%" alt="Seyir: end-to-end autonomous driving stack for Turkish traffic" /></a>
+</p>
+<p>
+  <a href="https://github.com/barisparlakk/skyguard-edge-detection"><img src="./assets/cards/skyguard.svg" width="49%" alt="Skyguard: aerial object detection optimised with TensorRT" /></a>
+  <a href="https://github.com/barisparlakk/TurkRAG"><img src="./assets/cards/turkrag.svg" width="49%" alt="TurkRAG: on-premise RAG for Turkish documents" /></a>
+</p>
+<p>
+  <a href="https://github.com/barisparlakk/DeepDerm"><img src="./assets/cards/deepderm.svg" width="49%" alt="DeepDerm: acne lesion detection and severity grading" /></a>
+  <a href="https://github.com/barisparlakk/Notary"><img src="./assets/cards/notary.svg" width="49%" alt="Notary: verifiable document proofs on Solana" /></a>
+</p>
 
-## Technologies
+## Experience
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,postgres,docker,git,linux&theme=dark&perline=10" alt="Python, PyTorch, TensorFlow, OpenCV, FastAPI, Flask, PostgreSQL, Docker, Git and Linux" />
-</div>
+| | | |
+|:--|:--|--:|
+| **AI developer** | Caladrius · LoRA fine-tuning of MedGemma 27B for oral dysplasia grading | `2026` |
+| **ML developer** | Unidev Software · geospatial analysis, Django APIs, a recommender that lifted engagement 40% | `2025` |
+| **Computer Society chair** | IEEE İnönü Student Branch · project teams and algorithm workshops | `2024–25` |
 
-<br />
+## Toolkit
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-161B22?style=flat-square&logoColor=58A6FF" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Computer_Vision-161B22?style=flat-square&logoColor=58A6FF" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Generative_AI-161B22?style=flat-square&logoColor=58A6FF" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Data_Science-161B22?style=flat-square&logoColor=58A6FF" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Edge_AI-161B22?style=flat-square&logoColor=58A6FF" alt="Edge AI" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,opencv,fastapi,django,spring,postgres,mysql,docker,react,linux,git&theme=dark&perline=13" alt="Python, C++, PyTorch, OpenCV, FastAPI, Django, Spring, PostgreSQL, MySQL, Docker, React, Linux and Git" />
+</p>
 
-## GitHub activity
+<p align="center"><sub>also TensorRT · ONNX · CARLA · CasADi · Hugging Face · LangChain · FAISS · Ollama</sub></p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=barisparlakk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="Barış Parlak's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisparlakk&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=barisparlakk&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
-</div>
-
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/barisparlakk/skyguard-edge-detection">Skyguard Edge Detection</a></h3>
-      <p>Real-time aerial object detection optimized for edge deployment with YOLOv8, ONNX, and TensorRT.</p>
-      <code>Computer vision</code> <code>Edge AI</code> <code>TensorRT</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/barisparlakk/TurkRAG">TurkRAG</a></h3>
-      <p>Privacy-first, on-premise retrieval-augmented generation designed for Turkish business documents.</p>
-      <code>Python</code> <code>RAG</code> <code>LLM</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/barisparlakk/ecu-anomaly-detection">ECU Anomaly Detection</a></h3>
-      <p>Real-time engine anomaly detection using an LSTM autoencoder trained on normal OBD-II sensor data.</p>
-      <code>Python</code> <code>LSTM</code> <code>Time series</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/barisparlakk/Seyir">Seyir</a></h3>
-      <p>An end-to-end autonomous driving pipeline designed around Turkish traffic characteristics.</p>
-      <code>Python</code> <code>Autonomous driving</code> <code>Vision</code>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <sub>Building reliable intelligent systems from data to deployment.</sub>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barisparlakk/barisparlakk/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/barisparlakk/barisparlakk/output/snake-light.svg" width="100%" alt="Contribution graph being eaten by a snake" />
+</picture>
